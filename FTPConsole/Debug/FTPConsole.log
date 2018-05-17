@@ -1,5 +1,5 @@
 ﻿  FTPConsole.cpp
-d:\devprograms\projects\ftpclient\ftpconsole\ftpconsole\ftpclient.h(63): warning C4101: 'addrData': unreferenced local variable
-d:\devprograms\projects\ftpclient\ftpconsole\ftpconsole\ftpclient.h(157): warning C4715: 'FTPClient::etablishDataChanel': not all control paths return a value
-d:\devprograms\projects\ftpclient\ftpconsole\ftpconsole\ftpclient.h(51): warning C4715: 'FTPClient::recvBuff': not all control paths return a value
+d:\devprograms\projects\ftpclient\ftpconsole\ftpconsole\ftpclient.h(93): warning C4101: 'addrData': unreferenced local variable
+d:\devprograms\projects\ftpclient\ftpconsole\ftpconsole\ftpclient.h(203): warning C4129: 'C': unrecognized character escape sequence
+d:\devprograms\projects\ftpclient\ftpconsole\ftpconsole\ftpclient.h(209): warning C4715: 'FTPClient::etablishDataChanel': not all control paths return a value
   FTPConsole.vcxproj -> D:\DevPrograms\Projects\FTPclient\FTPConsole\Debug\FTPConsole.exe
